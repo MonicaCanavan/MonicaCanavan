@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MonicaCanavan
-- 👀 I’m interested in becoming a data analyst
+- 👀 I’m interested in Data!
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to connect with me - https://www.linkedin.com/in/monicacanavan/
